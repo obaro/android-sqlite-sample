@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SqliteExample</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Add_New">Add New</string>
+    <string name="edit">Edit Person</string>
+    <string name="delete">Delete Person</string>
+    <string name="save">Save Person</string>
+
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+
+
+    <string name="deletePerson">Confirm person deletion.</string>
+    <string name="yes">Confirm</string>
+    <string name="no">Cancel</string>
+    <string name="title_activity_activity_edit">CreateOrEditActivity</string>
+</resources>

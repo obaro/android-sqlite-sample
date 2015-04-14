@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sample.foo.sqliteexample.CreateOrEditActivity">
+
+    <item
+        android:id="@+id/Edit_Person"
+        android:orderInCategory="100"
+        android:title="@string/edit"/>
+    <item
+        android:id="@+id/Delete_Person"
+        android:orderInCategory="100"
+        android:title="@string/delete"/>
+</menu>
